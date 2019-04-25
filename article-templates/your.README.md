@@ -1,3 +1,5 @@
+Original Project found: https://github.com/livecomsjournal/article_templates
+
 # Best Practices for Doing Something Very Important
 
 (Edit the title above to describe your article/repository.)
